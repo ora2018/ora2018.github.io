@@ -11,5 +11,5 @@ Charakteristisch für Spock ist der Ausspruch „faszinierend“, mit dem er auf
 Seine weit überdurchschnittlichen Fähigkeiten im Umgang mit Computern sind in mehreren Episoden von handlungstragender Bedeutung.
 
 
-##Zitat:
-> ...faszinierend. ...
+> faszinierend. 
+> Lebe lange und in frieden.

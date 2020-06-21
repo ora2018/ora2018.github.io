@@ -13,3 +13,5 @@ Seine weit überdurchschnittlichen Fähigkeiten im Umgang mit Computern sind in 
 
 > faszinierend. 
 > Lebe lange und in frieden.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Spock.JPG/212px-Spock.JPG"/>

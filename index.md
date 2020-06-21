@@ -12,4 +12,4 @@ Seine weit überdurchschnittlichen Fähigkeiten im Umgang mit Computern sind in 
 
 
 ##Zitat:
- ...„faszinierend“
+> ...faszinierend. ...
